@@ -1,18 +1,18 @@
-### C_codes
+# C_codes
 
 This file contain some of useful c codes as well as experiments.
 
-##### Description of codes.
+## Description of codes.
 
-###### makefile
+### makefile
 Makefile for all codes. Use options for specific file compilation.
 
-* make exp 
+#### make exp 
 it will complile large_exponent.c and make executable file "exp"
 
 
 
-###### large_exponent.c 
+### large_exponent.c 
 Calculates exponential value.
 After executing, it will ask for base and exponent value.
 The output uses long double which means that the result's range
